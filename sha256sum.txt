@@ -1,0 +1,7 @@
+f5a731243658fe66044eec97aa169c7be71712d347e6972a85504b44f5cbf4b9  C:/Users/rshat/Documents/Coding/CanvasHairCo-SecurityAssessment/CanvasHairCo - Website Security Assessment.7z.001.gpg
+218bfed0eab385145530da6c5ddf8cb3b9d4437abff3967e73eef0303cbbc5c8  C:/Users/rshat/Documents/Coding/CanvasHairCo-SecurityAssessment/fixing canvas co.JPG
+280fd73cfd16f679871f82fafc2f569f213e309c2597983cfead5198c41658c7  C:/Users/rshat/Documents/Coding/CanvasHairCo-SecurityAssessment/mixed words.JPG
+c8879e0be04dafda239577a56f8d5332be8419348261f7bec2a369d641f32659  C:/Users/rshat/Documents/Coding/CanvasHairCo-SecurityAssessment/No emojis or unicode.JPG
+92023d4a9fb3b1a90ec950efe9d4bd83ca8dd2dbe4c116ffe6f4fe60df430b74  C:/Users/rshat/Documents/Coding/CanvasHairCo-SecurityAssessment/readme.md
+7dbfbab5f39ab94082e23deaf6fa335533b8fd21ee76f00fcdf1b781c3a8d38f  C:/Users/rshat/Documents/Coding/CanvasHairCo-SecurityAssessment/ryanshatch_0x38771BE8_public.asc
+cea42f1b496811bd3dc3713961905ab0040430dc0935eb72ea858724c9dc38c1  C:/Users/rshat/Documents/Coding/CanvasHairCo-SecurityAssessment/.gitattributes
