@@ -11,4 +11,4 @@
 *.php linguist-language=Markdown
 *.exe linguist-language=Markdown
 "CanvasHairCo-SecurityAssessment" linguist-language=Markdown
-* linguist-language=Markdown
+*. linguist-language=Markdown
